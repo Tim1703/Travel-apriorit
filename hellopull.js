@@ -1,0 +1,1 @@
+const Tima = "Cool Boy";
